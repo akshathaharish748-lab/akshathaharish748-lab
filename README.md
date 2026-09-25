@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Akshatha Kumari 👋
 
-<!--
-**akshathaharish748-lab/akshathaharish748-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Python & JavaScript Developer | Cybersecurity & AI Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an MCA student interested in software development, artificial intelligence, cybersecurity, and emerging technologies. I enjoy building practical projects and learning new technologies through hands-on development.
+
+## 🛠️ Skills & Technologies
+
+- **Programming:** Python, JavaScript, Java
+- **Web Development:** HTML, CSS, React.js, Node.js, Express.js
+- **Database:** MongoDB
+- **AI & Machine Learning:** Machine Learning, NLP, Data Analysis
+- **Cybersecurity:** Cyber Threat Intelligence, Threat Detection, Network Security
+- **Tools:** Git, GitHub, VS Code, Postman
+
+## 🚀 Featured Project
+
+### AI Cyber Threat Intelligence Platform
+
+An AI-powered cybersecurity platform designed to detect, analyze, and monitor cyber threats.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Python
+
+## 📚 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Cybersecurity
+- Full-Stack Development
+- Cloud Deployment
+
+## 🎯 Career Goal
+
+To build a career in software development and cybersecurity while continuously learning and working on innovative technology projects.
+
+---
+
+⭐ Thank you for visiting my profile!
