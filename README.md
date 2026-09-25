@@ -1,4 +1,4 @@
-# Hi, I'm Akshatha Kumari 👋
+# Hi, I'm Akshatha👋
 
 ### MCA Student | Python & JavaScript Developer | Cybersecurity & AI Enthusiast
 
